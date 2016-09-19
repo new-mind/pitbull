@@ -1,0 +1,25 @@
+{
+  "name": "pitbull",
+  "version": "0.0.1",
+  "description": "IaC node.js tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Not implemented yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new-mind/pitbull.git"
+  },
+  "keywords": [
+    "node.js",
+    "iac",
+    "aws",
+    "cloud"
+  ],
+  "author": "jiojiajiu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/new-mind/pitbull/issues"
+  },
+  "homepage": "https://github.com/new-mind/pitbull#readme"
+}
