@@ -1,4 +1,4 @@
-# Pitbull
+# Pitbull [![Build Status](https://travis-ci.org/new-mind/pitbull.svg?branch=master)](https://travis-ci.org/new-mind/pitbull)
 
 IaC tool
 
