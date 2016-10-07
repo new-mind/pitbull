@@ -2,7 +2,7 @@
   "name": "pitbull",
   "version": "0.0.1",
   "description": "IaC node.js tool",
-  "main": "index.js",
+  "main": "dist/pitbull.js",
   "scripts": {
     "test": "echo 'Not implemented yet'"
   },
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/new-mind/pitbull/issues"
   },
-  "homepage": "https://github.com/new-mind/pitbull#readme"
+  "homepage": "https://github.com/new-mind/pitbull#readme",
+  "dependencies": {
+    "aws-sdk": "^2.6.3"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
