@@ -6,6 +6,7 @@ module.exports = {
   entry: ['./src/pitbull'],
   output: {
     path: path.resolve(__dirname, 'dist'),
+    libraryTarget: 'commonjs',
     filename: 'pitbull.js'
   },
   target: 'node',
